@@ -1,5 +1,6 @@
 # WebTech-Project
 Home decor
+
 # Front end:
 Steps to run:
 1. # Install Create React App
