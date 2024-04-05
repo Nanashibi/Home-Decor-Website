@@ -1,5 +1,5 @@
-# WebTech-Project
-Home decor
+# Home Decor Website
+A simple Home Decor website made using MERN stack
 
 # Front end:
 Steps to run:
